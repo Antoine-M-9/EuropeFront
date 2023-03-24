@@ -6,16 +6,7 @@ export const AppBar = () => {
       <>
         <ul>
           <li>
-            <Link to={"/Article"}>Article</Link>
-          </li>
-          <li>
-            <Link to={"/Quiz"}>Wesh</Link>
-          </li>
-          <li>
-            <Link to={"/Article"}>News</Link>
-          </li>
-          <li>
-            <Link to={"/Article"}>News</Link>
+            <Link to={"/article"}>Article</Link>
           </li>
         </ul>
       </>
